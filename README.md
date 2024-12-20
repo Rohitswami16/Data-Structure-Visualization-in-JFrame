@@ -70,7 +70,7 @@ This project is a Java-based application that provides an interactive graphical 
 1. **📥 Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/DataStructureVisualizer.git
+   git clone https://github.com/Rohitswami16/Data-Structure-Visualization-in-JFrame.git
    cd DataStructureVisualizer
    ```
 
