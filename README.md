@@ -142,6 +142,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any questions or issues, please contact:
 
 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rohit-swami16/)
+
 🐙 GitHub: [Rohitswami16](https://github.com/Rohitswami16)
 
 
