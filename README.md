@@ -102,13 +102,13 @@ This project is a Java-based application that provides an interactive graphical 
 ```
 DataStructureVisualizer/
 ├── src/
-│   ├── main/
+│   ├── DSAPP/
 │   │   ├── Array.java
 │   │   ├── Stack.java
 │   │   ├── Queue.java
 │   │   ├── CircularQueue.java
 │   │   ├── LinkedList.java
-│   │   └── Main.java
+│   │   ├── Main.java
 │   │   ├── ArrayFrame.java
 │   │   ├── StackFrame.java
 │   │   ├── QueueFrame.java
