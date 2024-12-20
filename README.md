@@ -108,7 +108,7 @@ DataStructureVisualizer/
 │   │   ├── Queue.java
 │   │   ├── CircularQueue.java
 │   │   ├── LinkedList.java
-│   │   ├── Main.java
+│   │   ├── DataStructure.java
 │   │   ├── ArrayFrame.java
 │   │   ├── StackFrame.java
 │   │   ├── QueueFrame.java
