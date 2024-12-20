@@ -138,9 +138,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-## 📧 Contact
-
+📧 Contact
 For any questions or issues, please contact:
-- **🔗 LinkedIn: https://www.linkedin.com/in/rohit-swami16/
-- **🐙 GitHub**: [yourusername](https://github.com/Rohitswami16)
+
+🔗 LinkedIn: https://www.linkedin.com/in/rohit-swami16/
+🐙 GitHub: Rohitswami16
+
 
