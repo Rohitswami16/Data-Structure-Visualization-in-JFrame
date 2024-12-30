@@ -9,7 +9,7 @@ This project is a Java-based application that provides an interactive graphical 
 - 🚶 Queue
 - 🔄 Circular Queue
 - 🔗 Linked List
-
+- 
 ---
 
 ## ✨ Features
