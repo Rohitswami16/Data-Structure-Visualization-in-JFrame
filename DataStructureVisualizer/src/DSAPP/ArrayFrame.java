@@ -1,8 +1,5 @@
-
 package DSAPP;
-
 import javax.swing.*;
-
 import java.awt.*;
 
 public class ArrayFrame extends JFrame {
