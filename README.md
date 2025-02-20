@@ -120,8 +120,7 @@ DataStructureVisualizer/
 
 ---
 
-
-# Data Structures
+## Screenshots
 
 ## Home
 <img src="https://github.com/user-attachments/assets/02394460-cc6d-4fcc-98a2-d5844872de7e" width="600">
@@ -142,33 +141,7 @@ DataStructureVisualizer/
 <img src="https://github.com/user-attachments/assets/05c4bb8d-9d6f-4e55-bd99-7d7241c737e1" width="600">
 
 
-
-## Screenshots
-
-HOME
-
-![Data Sctructure Home](https://github.com/user-attachments/assets/02394460-cc6d-4fcc-98a2-d5844872de7e)
-
- 
-ARRAY
-
-![Array](https://github.com/user-attachments/assets/292c9dfc-0762-4fef-b2ca-57d9cfc0f105)
-
-STACK
-
-![Stack](https://github.com/user-attachments/assets/5da753d7-9eaf-42b1-816b-e703fb9c14bf)
-
-QUEUE
-
-![Queue](https://github.com/user-attachments/assets/933d952c-c6ae-4b11-ad26-caa2980a1a9d)
-
-CIRCULAR QUEUE
-
-![Circular Queue](https://github.com/user-attachments/assets/bac9049b-1ead-4937-9241-b7f93faa9d1d)
-
-LINKEDLIST
-
-![LinkedList](https://github.com/user-attachments/assets/05c4bb8d-9d6f-4e55-bd99-7d7241c737e1)
+---
 
 
 ## 🤝 Contributing
